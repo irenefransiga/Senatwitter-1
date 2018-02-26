@@ -9,6 +9,12 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            Select a state:
+            <asp:DropDownList ID="DropDownList1" runat="server">
+            </asp:DropDownList>
+&nbsp; Select a senator:
+            <asp:DropDownList ID="DropDownList2" runat="server">
+            </asp:DropDownList>
         </div>
     </form>
 </body>
