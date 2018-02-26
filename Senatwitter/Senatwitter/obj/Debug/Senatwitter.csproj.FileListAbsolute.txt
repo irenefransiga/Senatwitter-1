@@ -1,0 +1,9 @@
+C:\Users\glahman1\Documents\Github\Senatwitter\Senatwitter\Senatwitter\bin\Senatwitter.dll.config
+C:\Users\glahman1\Documents\Github\Senatwitter\Senatwitter\Senatwitter\bin\Senatwitter.dll
+C:\Users\glahman1\Documents\Github\Senatwitter\Senatwitter\Senatwitter\bin\Senatwitter.pdb
+C:\Users\glahman1\Documents\Github\Senatwitter\Senatwitter\Senatwitter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\glahman1\Documents\Github\Senatwitter\Senatwitter\Senatwitter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\glahman1\Documents\Github\Senatwitter\Senatwitter\Senatwitter\obj\Debug\Senatwitter.csprojResolveAssemblyReference.cache
+C:\Users\glahman1\Documents\Github\Senatwitter\Senatwitter\Senatwitter\obj\Debug\Senatwitter.csproj.CoreCompileInputs.cache
+C:\Users\glahman1\Documents\Github\Senatwitter\Senatwitter\Senatwitter\obj\Debug\Senatwitter.dll
+C:\Users\glahman1\Documents\Github\Senatwitter\Senatwitter\Senatwitter\obj\Debug\Senatwitter.pdb
